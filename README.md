@@ -1,7 +1,7 @@
 # Hello, I'm Jayden.
 <a href="https://www.linkedin.com/in/jayden-handy-30712a322/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a new Computer Information Systems graduate with an interest in cybersecurity and data analyzation. 
+I am a Computer Information Systems graduate with an interest in cybersecurity, information technology, networking and data analyzation. 
 
 ## Objective
 
